@@ -4,8 +4,11 @@ public class Hello {
 	 public static void main(String[] args) {
 		System.out.println("hello");
 		
-		System.out.println("¾È³çÇÏ¼¼¿ä È«±æµ¿´Ô");
-		System.out.println("¸¸³ª¼­ ¹İ°©½À´Ï´Ù.");
-		System.out.println("¿À´ÃÀº ¸ñ¿äÀÏÀÔ´Ï´Ù.");
+		System.out.println("ì•ˆë…•í•˜ì„¸ìš” í™ê¸¸ë™ë‹˜");
+		System.out.println("ë§Œë‚˜ì„œ ë°˜ê°‘ìŠµë‹ˆë‹¤.");
+		System.out.println("ì˜¤ëŠ˜ì€ ëª©ìš”ì¼ì…ë‹ˆë‹¤.");
+		System.out.println("ì¥ë§ˆë¼ëŠ”ë° ë¹„ê°€ ì•ˆì™€ìš”.");
+		 System.out.println("ì§‘ì— ê°€ê³  ì‹¶ì–´ìš”");
+		 System.out.println("ë°¥ì£¼ì„¸ìš”");
 	}
 }
